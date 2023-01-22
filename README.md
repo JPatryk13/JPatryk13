@@ -1,3 +1,1 @@
-Hi, I'm Patryk. My work is currently
-python-oriented. I'm looking to colaborate on back-end 
-projects as well as full-stack development.
+Hi, I'm Patryk. My work is currently python-oriented. I'm seeking proffesional experience in Data Engineering/Science industry. Currently self-studying Machine Learning and AI.
